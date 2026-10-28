@@ -2,6 +2,8 @@
 
 Light Omarchy theme from the same Rockies photographs as [larch](https://github.com/nchudleigh/omarchy-larch-theme). Snow, pale limestone, deep larch gold, lake teal.
 
+Photographs by [Alex Mack](https://www.alexmack.ca/), [fall in the Canadian Rockies](https://x.com/alexmack__/status/2114849469237993883).
+
 ```bash
 omarchy theme install https://github.com/nchudleigh/omarchy-larch-light-theme
 ```
