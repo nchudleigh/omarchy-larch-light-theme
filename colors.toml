@@ -1,9 +1,9 @@
-# Larch light. Snow, pale limestone, deep larch gold, lake teal.
+# Larch light. Snow, pale limestone, larch gold, lake teal.
 # Same photographs as the dark theme. Text colors clear 4.5:1 on the paper surfaces.
 
 mode = "light"
 
-accent = "#8f5600"
+accent = "#e39b12"
 selection = "#efe3c4"
 muted = "#5c6560"
 
@@ -17,8 +17,8 @@ dark_foreground = "#5c6560"
 light_foreground = "#2a3330"
 bright_foreground = "#121816"
 
-# Solid deep larch gold. Inactive windows use pale stone.
-hyprland_active_border = "rgba(8f5600ee)"
+# Solid larch gold, shared with the dark theme. Inactive windows use pale stone.
+hyprland_active_border = "rgba(e39b12ee)"
 hyprland_inactive_border = "rgba(b7b1a4aa)"
 
 red = "#a33b2c"
