@@ -1,11 +1,12 @@
 # Larch light. Snow, pale limestone, larch gold, lake teal.
-# Same photographs as the dark theme. Text colors clear 4.5:1 on the paper surfaces.
+# Same photographs as the dark theme. Text colors clear 4.5:1 on the paper surfaces,
+# and still do through glassy windows over the photographs.
 
 mode = "light"
 
 accent = "#e39b12"
 selection = "#efe3c4"
-muted = "#5c6560"
+muted = "#4b534e"
 
 background = "#f6f3ec"
 dark_background = "#e9e4d8"
@@ -13,7 +14,7 @@ darker_background = "#ddd6c8"
 lighter_background = "#fbf9f4"
 
 foreground = "#1c2420"
-dark_foreground = "#5c6560"
+dark_foreground = "#4b534e"
 light_foreground = "#2a3330"
 bright_foreground = "#121816"
 
@@ -21,18 +22,18 @@ bright_foreground = "#121816"
 hyprland_active_border = "rgba(e39b12ee)"
 hyprland_inactive_border = "rgba(b7b1a4aa)"
 
-red = "#a33b2c"
-orange = "#9b5325"
-yellow = "#855f07"
-green = "#4f6a32"
-cyan = "#1d6d74"
-blue = "#3d6578"
-magenta = "#85596c"
-brown = "#8a5a32"
+red = "#8d3224"
+orange = "#7d421c"
+yellow = "#6b4b03"
+green = "#415828"
+cyan = "#15595f"
+blue = "#325565"
+magenta = "#6b4756"
+brown = "#714827"
 
-bright_red = "#a33b2c"
-bright_yellow = "#855f07"
-bright_green = "#4f6a32"
-bright_cyan = "#1d6d74"
-bright_blue = "#3d6578"
-bright_magenta = "#85596c"
+bright_red = "#8d3224"
+bright_yellow = "#6b4b03"
+bright_green = "#415828"
+bright_cyan = "#15595f"
+bright_blue = "#325565"
+bright_magenta = "#6b4756"
